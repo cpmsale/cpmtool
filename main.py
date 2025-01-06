@@ -158,7 +158,7 @@ if __name__ == "__main__":
             load_player_data(cpm)
             load_key_data(cpm)
             choices = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22"]
-            console.print("[bold green]{01}[/bold green]: [bold cyan]Change Money[/bold cyan]             [bold red]1.000[/bold red]")
+            console.print("[bold green]{01}[/bold green]: [bold cyan]Change Money[/bold cyan]             [bold red]FREE[/bold red]")
             console.print("[bold green]{02}[/bold green]: [bold cyan]Change Coins[/bold cyan]             [bold red]3.500[/bold red]")
             console.print("[bold green]{03}[/bold green]: [bold cyan]King Rank[/bold cyan]                [bold red]4.000[/bold red]")
             console.print("[bold green]{04}[/bold green]: [bold cyan]Change ID[/bold cyan]                [bold red]3.500[/bold red]")
